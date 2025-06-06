@@ -1,0 +1,14 @@
+E:\MyGit\dot net\Ms.Net\Asssignment1.1\Asssignment1.1\bin\Debug\net8.0\Asssignment1.1.exe
+E:\MyGit\dot net\Ms.Net\Asssignment1.1\Asssignment1.1\bin\Debug\net8.0\Asssignment1.1.deps.json
+E:\MyGit\dot net\Ms.Net\Asssignment1.1\Asssignment1.1\bin\Debug\net8.0\Asssignment1.1.runtimeconfig.json
+E:\MyGit\dot net\Ms.Net\Asssignment1.1\Asssignment1.1\bin\Debug\net8.0\Asssignment1.1.dll
+E:\MyGit\dot net\Ms.Net\Asssignment1.1\Asssignment1.1\bin\Debug\net8.0\Asssignment1.1.pdb
+E:\MyGit\dot net\Ms.Net\Asssignment1.1\Asssignment1.1\obj\Debug\net8.0\Asssignment1.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyGit\dot net\Ms.Net\Asssignment1.1\Asssignment1.1\obj\Debug\net8.0\Asssignment1.1.AssemblyInfoInputs.cache
+E:\MyGit\dot net\Ms.Net\Asssignment1.1\Asssignment1.1\obj\Debug\net8.0\Asssignment1.1.AssemblyInfo.cs
+E:\MyGit\dot net\Ms.Net\Asssignment1.1\Asssignment1.1\obj\Debug\net8.0\Asssignment1.1.csproj.CoreCompileInputs.cache
+E:\MyGit\dot net\Ms.Net\Asssignment1.1\Asssignment1.1\obj\Debug\net8.0\Asssignment1.1.dll
+E:\MyGit\dot net\Ms.Net\Asssignment1.1\Asssignment1.1\obj\Debug\net8.0\refint\Asssignment1.1.dll
+E:\MyGit\dot net\Ms.Net\Asssignment1.1\Asssignment1.1\obj\Debug\net8.0\Asssignment1.1.pdb
+E:\MyGit\dot net\Ms.Net\Asssignment1.1\Asssignment1.1\obj\Debug\net8.0\Asssignment1.1.genruntimeconfig.cache
+E:\MyGit\dot net\Ms.Net\Asssignment1.1\Asssignment1.1\obj\Debug\net8.0\ref\Asssignment1.1.dll
